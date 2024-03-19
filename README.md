@@ -27,8 +27,13 @@ The report provides insights into pizza sales data, including:
     * Total pizzas sold by pizza category
 
 
+![Screenshot 2024-03-19 161248](https://github.com/princeyadav7/PowerBi-Pizza_Sales_Analysis/assets/133991180/c62735f1-6490-423d-a037-aa6ddf19e3bc)
 
-The image shows a snippet of a pizza sales report generated  using Power BI. It includes the following:
+![Screenshot 2024-03-19 161311](https://github.com/princeyadav7/PowerBi-Pizza_Sales_Analysis/assets/133991180/06705e12-7b6d-40b1-9762-3a4e23fd9702)
+
+
+The image shows a snippet of a![Uploading Screenshot 2024-03-19 161311.png…]()
+ pizza sales report generated  using Power BI. It includes the following:
 
 * **Pizza Category:** This section shows the total revenue, average order value, total pizzas sold, total orders, and average pizzas per order for all pizza categories from  from 1-1-2015 to 12-31-2015.
 * **Busiest Days and Times:** This section  shows that Fridays and Saturdays are the days with the most orders. The graph shows daily trends for total orders, with the highest peaks on Fridays and Saturdays. It also shows a monthly trend for total orders, with the highest peaks in July and January.
