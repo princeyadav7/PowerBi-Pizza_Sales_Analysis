@@ -44,9 +44,6 @@ The image shows a snippet of pizza sales report generated  using Power BI. It in
 * Basic understanding of SQL
 * Basic understanding of Power BI
 
-**License**
-
-This repository is licensed under the MIT License.
 
 **Additional Notes**
 
